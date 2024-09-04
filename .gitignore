@@ -1,0 +1,4 @@
+venv/*
+build/*
+Password-Generator.spec
+dist/*
